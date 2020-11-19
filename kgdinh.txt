@@ -1,0 +1,3 @@
+Hello, my name is Khiem Dinh.
+I am 3rd year CS major.
+Currently, I am taking ICS 51, ICS 139W, and INF4MTX 43.
